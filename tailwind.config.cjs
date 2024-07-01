@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'p-header': "url('./bg.png')",
+        'p-header': "url('https://i.imgur.com/jpWSWG0.png')",
       },
       height: {
         35: '8.5rem',
