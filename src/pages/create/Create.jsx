@@ -38,11 +38,11 @@ export const Create = () => {
   return (
     <div className="w-full flex-col flex justify-between h-dvh">
       <div>
-        <div className="bg-p-header bg-right bg-no-repeat h-35 w-full flex justify-start items-end px-8 pb-9">
+        <div className="m-auto max-w-xl bg-p-header bg-right bg-no-repeat h-35 w-full flex justify-start items-end px-8 pb-9">
           <BtnBack />
         </div>
         <PageWrapper>
-          <div className="m-0 px-8 font-title ">
+          <div className="px-8 font-title max-w-xl m-auto ">
             <h1 className="mb-6 text-2xl-1 text-primary tracking-wider">
               Create Account
             </h1>
